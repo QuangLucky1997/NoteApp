@@ -6,6 +6,23 @@
         android:icon="@drawable/ic_baseline_check_24"
         android:title="save"
         app:showAsAction="always" />
+    <item
+        android:id="@+id/edit"
+        android:icon="@drawable/ic_baseline_edit_24"
+        android:title="Edit"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/delete"
+        android:icon="@drawable/ic_baseline_delete_24"
+        android:title="Delete"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/update"
+        android:icon="@drawable/ic_baseline_update_24"
+        android:title="Update"
+        app:showAsAction="always" />
+
+
 
 
 </menu>

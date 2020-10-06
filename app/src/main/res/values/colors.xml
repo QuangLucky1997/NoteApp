@@ -3,4 +3,21 @@
     <color name="colorPrimary">#6200EE</color>
     <color name="colorPrimaryDark">#3700B3</color>
     <color name="colorAccent">#03DAC5</color>
+
+
+    <color name="blue">#03A9F4</color>
+    <color name="red">#E61A13</color>
+    <color name="yellow">#EFD80E</color>
+    <color name="violet">#CC14D3</color>
+    <color name="orange">#CA6A17</color>
+
+
+
+    <array name="listcolor">
+        <item>@color/white</item>
+        <item>@color/orange</item>
+        <item>@color/red</item>
+        <item>@color/yellow</item>
+        <item>@color/blue</item>
+    </array>
 </resources>
